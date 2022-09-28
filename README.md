@@ -13,10 +13,10 @@
 **Brief Description:** Development of an application, that from a video and making use of the GPU for image processing, finds lanes and vehicles, and marks in
 red the vehicles that are in our lane and in green the other vehicles outside our lane.
 
-The system architecture is composed by 3 main image processing methods:
-- Canny Edge Detection for lane enchancement (OpenCL);
-- Hough Transform for lane lines selection (OpenCL);
-- Viola-Jones Algorithm for vehicle detection (OpenCV).
+**System Architecture:**
+- Canny Edge Detection for lane enchancement (OpenCL)
+- Hough Transform for lane lines selection (OpenCL)
+- Viola-Jones Algorithm for vehicle detection (OpenCV)
 
 ---
 
