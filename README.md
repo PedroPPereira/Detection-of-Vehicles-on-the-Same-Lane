@@ -19,10 +19,12 @@ The system architecture is composed by 3 image processing methods:
 - Hough Transform for lane lines selection (OpenCL);
 - Viola-Jones Algorithm for vehicle detection (OpenCV).
 
-Algorithm Evolution
+---
+
+### Algorithm Evolution
 
 ![algorithm_evolution](https://user-images.githubusercontent.com/46992334/192883616-f2c39bc0-7a17-4a91-9588-0e49ecf32f1c.png)
 
-Demo
+### Demo
 
 ![demo](https://user-images.githubusercontent.com/46992334/192883218-af0e6089-5dab-4fa7-bd94-5276c680daf7.jpg)
