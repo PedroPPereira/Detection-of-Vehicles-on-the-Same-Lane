@@ -20,7 +20,6 @@ The system architecture is composed by 3 image processing methods:
 - Viola-Jones Algorithm for vehicle detection (OpenCV).
 
 Algorithm Evolution
-![plot](images\algorithm_evolution.png)
-
+![algorithm_evolution](https://user-images.githubusercontent.com/46992334 192883230-ff116755-919f-44fb-a2b1-a3b572a7b404.png)
 Demo
-![plot](images\demo.png)
+![demo](https://user-images.githubusercontent.com/46992334/192883218-af0e6089-5dab-4fa7-bd94-5276c680daf7.jpg)
