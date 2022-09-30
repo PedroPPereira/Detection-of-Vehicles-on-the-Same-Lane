@@ -2,6 +2,8 @@
 
 **Course:** Advanced Topics in Digital Image Processing
 
+**Specialty Area:** Digital Systems
+
 **Academic Year:** 2020/21
 
 **Semester:** 2nd
