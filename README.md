@@ -10,15 +10,15 @@
 
 **Grade:** 19 out of 20
 
-**Technologies Used:** Python, OpenCV, OpenCL
+**Technologies Used:** Python, C, OpenCV, OpenCL
 
 **Brief Description:** Development of an application, that from a video and making use of the GPU for image processing, finds lanes and vehicles, and marks in
 red the vehicles that are in our lane and in green the other vehicles outside our lane.
 
 **System Architecture:**
 - Canny Edge Detection for lane enchancement (OpenCL)
-- Hough Transform for lane lines selection (OpenCL)
-- Viola-Jones Algorithm for vehicle detection (OpenCV)
+- Hough Transform to find and select the lane lines (OpenCL)
+- Viola-Jones Algorithm and Cascade Classifiers for vehicle detection (OpenCV)
 
 ---
 
