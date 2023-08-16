@@ -25,7 +25,12 @@ red the vehicles that are in our lane and in green the other vehicles outside ou
 ### Algorithm Evolution
 
 ![algorithm_evolution](https://user-images.githubusercontent.com/46992334/192883616-f2c39bc0-7a17-4a91-9588-0e49ecf32f1c.png)
-
+1) Original image
+2) Greyscale operation
+3) Sobel operation
+4) Canny Edge Detection
+5) Hough Transform
+6) Viola-Jones Algorithm
 ---
 
 ### Video Snippet Demo
